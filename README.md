@@ -38,3 +38,5 @@ We use the data (which can include your communications) to investigate, respond 
 
 ## Changes to Our Privacy Policy
 We may update our Privacy Policy from time to time to reflect changes in our practices. We will post any changes to our Privacy Policy on this page. If we make material changes to how we treat our users’ personal information, we will provide a notice that the Privacy Policy has been updated. The date the Privacy Policy was last modified is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting this Privacy Policy to check for any changes.
+
+Note: This privacy policy is derived in part from the YouVersion Privacy Policy.
