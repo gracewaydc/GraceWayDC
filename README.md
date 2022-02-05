@@ -1,3 +1,5 @@
+# Privacy Policy
+
 ## Brief Overview
 Here’s a summary of what you can expect to find in our Privacy Policy, which cover the GraceWay App and its services:
 
