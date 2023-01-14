@@ -17,7 +17,7 @@ This privacy policy covers all versions of the app released after 5 February 202
 
 ## Accepting the Terms
 Please read this Privacy Policy carefully because it discusses how we will collect, use, share and process your personal information. By accessing and/or otherwise using the GraceWay App you agree to this Privacy Policy and its terms and consent to having your data transferred to and processed by the app and the Services.
-We welcome any questions or comments you may have about this Privacy Policy and our privacy practices. If you have any questions or comments, you may contact us at: nbsoftware@icloud.com.
+We welcome any questions or comments you may have about this Privacy Policy and our privacy practices. If you have any questions or comments, you may contact us at: gwdcappdeveloper@gmail.com.
 
 ## How We Use Your Information
 We do not share your personal data with any third-party advertisers or ad networks for their advertising purposes. We use data that we collect about you or that you provide to us, including any personal information, as follows:
