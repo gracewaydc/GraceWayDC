@@ -10,13 +10,13 @@ When you create an account on the GraceWay app, the information we collect is fo
 We do not share your personally identifiable data with any third-party advertisers or ad networks.
 
 ## Your privacy protected.
-We make sure to analyze statistics about app usage we share in a way that protects your privacy. When this information is published, it is only in an aggregated form that does not disclose your personally identifiable information. In addition, the Services implement industry-standard security practices to keep your data safe.
+We make sure to analyze statistics about app usage we share in a way that protects your privacy. When this information is published, it is only in an aggregated form that does not disclose your personally identifiable information. In addition, the Services implement industry-standard security practices to keep your data safe. THE APP IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE APP OR THE USE OR OTHER DEALINGS IN THE APP.
 
 ## Dates Effective
-This privacy policy covers all versions of the app released after 5 February 2022. The previous Privacy Policy (last modified 1 February 2019) covers all versions of the app released up to 5 February 2022. Usage of all data transmitted to or stored in the Services is covered by the latest privacy policy (i.e. this version released 5 February 2022 until a newer privacy policy shall replace it).
+This privacy policy covers all versions of the app released after 5 February 2022. The previous Privacy Policy (last modified 1 February 2019) covers all versions of the app released up to 5 February 2022. Usage of all data transmitted to or stored in the Services is covered by the latest privacy policy (i.e. this version updated 13 January 2023 until a newer privacy policy shall replace it).
 
 ## Accepting the Terms
-Please read this Privacy Policy carefully because it discusses how we will collect, use, share and process your personal information. By accessing the GraceWay App you agree to this Privacy Policy and its terms and consent to having your data transferred to and processed by the app and the Services.
+Please read this Privacy Policy carefully because it discusses how we will collect, use, share and process your personal information. By accessing and/or otherwise using the GraceWay App you agree to this Privacy Policy and its terms and consent to having your data transferred to and processed by the app and the Services.
 We welcome any questions or comments you may have about this Privacy Policy and our privacy practices. If you have any questions or comments, you may contact us at: nbsoftware@icloud.com.
 
 ## How We Use Your Information
