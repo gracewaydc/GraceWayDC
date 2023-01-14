@@ -9,7 +9,7 @@ When you create an account on the GraceWay app, the information we collect is fo
 ## How we use your data.
 We do not share your personally identifiable data with any third-party advertisers or ad networks.
 
-## Your privacy protected.
+## Your privacy.
 We make sure to analyze statistics about app usage we share in a way that protects your privacy. When this information is published, it is only in an aggregated form that does not disclose your personally identifiable information. In addition, the Services implement industry-standard security practices to keep your data safe. THE APP IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE APP OR THE USE OR OTHER DEALINGS IN THE APP.
 
 ## Dates Effective
@@ -39,4 +39,4 @@ We use the data (which can include your communications) to investigate, respond 
 We may update our Privacy Policy from time to time to reflect changes in our practices. We will post any changes to our Privacy Policy on this page. If we make material changes to how we treat our users’ personal information, we will provide a notice that the Privacy Policy has been updated. You are responsible for periodically visiting this Privacy Policy to check for any changes.
 
 ## Acknowledgements
-This privacy policy is derived in part from the YouVersion Privacy Policy.
+This privacy policy is derived in part from the YouVersion Privacy Policy and MIT License
